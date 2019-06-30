@@ -5,10 +5,10 @@ function setup(){
 w = window.innerWidth;
 h = window.innerHeight;
 createCanvas(w,h);
-background(245);
+background(230);
 }
 function draw()
 {
 
-	
+
 }
